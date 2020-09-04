@@ -1,0 +1,2 @@
+rootProject.name = 'onuel'
+include 'onuel-api'
